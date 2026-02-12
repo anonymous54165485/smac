@@ -1,0 +1,4 @@
+session "SMAC-test" = "Solidity-dev" +
+  options [document = false]
+  theories
+    MTests
