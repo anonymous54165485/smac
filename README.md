@@ -3,6 +3,10 @@
 This is supplementary material for the paper **SMAC: A Calculus for Verifying Solidity-style Memory Arrays**.
 It contains the formalization of the memory model and the calculus discussed in the paper as well as the benchmark for the evaluation, the results of the experiments, and the case study.
 
+## Artefact
+
+The repository’s source files are also provided as a virtual machine that includes all tools required to execute them. The virtual machine is available at <https://doi.org/10.5281/zenodo.21497403>
+
 ## Content
 
 - `Memory.thy`: The formalization of the memory model described in the paper.
